@@ -1,5 +1,3 @@
-Chapter 2 - Content-Based Router Example
-========================================
 
 These examples show you how to use a Content-Based Router from Camel. 
 The first example is a simple CBR and can be run using:
