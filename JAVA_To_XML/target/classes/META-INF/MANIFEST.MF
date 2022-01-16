@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1642328379090
+Build-Jdk: 1.8.0_282
+Built-By: kvighe
+Bundle-Description: Camel Java DSL Example
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Camel Java DSL Example [Final_JAVA_XML]
+Bundle-SymbolicName: Final_JAVA_XML
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.mycompany;version="1.0.0";uses:="javax.xml.bind.anno
+ tation,org.apache.camel.builder"
+Import-Package: javax.xml.bind,javax.xml.bind.annotation,org.apache.came
+ l.builder;version="[2.23,3)",org.apache.camel.main;version="[2.23,3)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.2.0.201605172007
