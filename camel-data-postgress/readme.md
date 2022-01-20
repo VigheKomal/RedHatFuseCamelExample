@@ -1,4 +1,4 @@
-CAMEL-sql EXAMPLE
+CAMEL-SQL EXAMPLE (Using Postgress)
 
 ===========================
 
