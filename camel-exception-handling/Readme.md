@@ -10,8 +10,12 @@ To run this example:
 Output:-
 
 Application context started
+
 Exception Thrown
+
 Exception Thrown
+
 handling ex
+
 handling ex
 
